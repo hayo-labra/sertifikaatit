@@ -1,0 +1,2 @@
+# sertifikaatit
+Microsoft-sertifikaattien linkkikokoelmat
